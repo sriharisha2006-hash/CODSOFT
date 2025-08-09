@@ -10,8 +10,6 @@ The dataset contains movie titles, genres, and descriptions. We transform the de
 📂 Dataset
 Source: IMDB Genre Classification Dataset – Kaggle
 
-Dataset Columns:
-
 ID – Unique identifier for the movie.
 
 TITLE – Name of the movie.
