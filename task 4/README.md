@@ -11,7 +11,6 @@ We use the SMS Spam Collection Dataset and apply TF-IDF vectorization along with
 📂 Dataset
 Source: SMS Spam Collection Dataset – Kaggle
 
-Dataset Columns:
 
 label – Target variable (ham or spam)
 
